@@ -22,12 +22,5 @@ namespace Student_Attendance_Management_System
         {
             this.Close();
         }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-            a++;
-            if (a == 14)
-                picMe.Show();
-        }
     }
 }
