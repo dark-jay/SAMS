@@ -3,7 +3,7 @@ SAMS - Student Attendance Management System is a standalone database driven soft
 The entire Application is built by using c#.
 
 Dependancies: Bunifu_UI_v1.5.3
-link: https://devtools.bunifu.co.ke/
+link: https://bunifuframework.com/
 
 Screenshot of the SAMS-
 
